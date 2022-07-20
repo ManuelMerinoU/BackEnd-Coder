@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Calcos",
+    "precio": 250,
+    "categora": "Calcos",
+    "id": 1
+  },
+  {
+    "nombre": "Calcos",
+    "precio": 250,
+    "categora": "Calcos",
+    "id": 2
+  },
+  {
+    "nombre": "Calcos",
+    "precio": 250,
+    "categora": "Calcos",
+    "id": 3
+  },
+  {
+    "nombre": "Calcos",
+    "precio": 250,
+    "categora": "Calcos",
+    "id": 4
+  }
+]  {
+    "nombre": "Calcos",
+    "precio": 250,
+    "categora": "Calcos",
+    "id": 5
+  }
+]
